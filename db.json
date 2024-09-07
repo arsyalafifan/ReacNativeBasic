@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "a title",
+      "username": "USERNAME",
+      "email": 100
+    },
+    {
+      "id": "d12b",
+      "name": "test",
+      "username": "test",
+      "email": "test"
+    },
+    {
+      "id": "1ef0",
+      "name": "hghg",
+      "username": "adfsdf",
+      "email": "sdfsfv"
+    }
+  ]
+}
